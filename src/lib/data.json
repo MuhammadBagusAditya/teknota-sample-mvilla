@@ -1,0 +1,91 @@
+{
+	"villas": [
+		{
+			"name": "Villa Sadewa",
+			"price": 2000000,
+			"facilities": [
+				"4 Kamar tidur dengan toilet dalam",
+				"2 Toilet luar",
+				"Ruang tamu",
+				"Kolam ikan kecil",
+				"Kolam renang"
+			],
+			"images": [
+				{
+					"url": "/villa-1.webp",
+					"alt": "Foto bagian depan villa"
+				},
+				{
+					"url": "/villa-2.webp",
+					"alt": "Foto Kolam Renang"
+				}
+			]
+		},
+		{
+			"name": "Villa Nakula",
+			"price": 3500000,
+			"facilities": [
+				"4 Kamar tidur dengan toilet dalam",
+				"2 Toilet luar",
+				"Ruang tamu",
+				"Kolam ikan kecil",
+				"Kolam renang"
+			],
+			"images": [
+				{
+					"url": "/villa-2.webp",
+					"alt": "Foto bagian depan villa"
+				},
+				{
+					"url": "/villa-3.webp",
+					"alt": "Foto Kolam Renang"
+				}
+			]
+		},
+		{
+			"name": "Villa Arjuna",
+			"price": 5000000,
+			"facilities": [
+				"4 Kamar tidur dengan toilet dalam",
+				"2 Toilet luar",
+				"Ruang tamu",
+				"Kolam ikan kecil",
+				"Kolam renang"
+			],
+			"images": [
+				{
+					"url": "/villa-3.webp",
+					"alt": "Foto bagian depan villa"
+				},
+				{
+					"url": "/villa-1.webp",
+					"alt": "Foto Kolam Renang"
+				}
+			]
+		}
+	],
+	"offers": [
+		{
+			"name": "Paket Honey Moon",
+			"img": "/villa-1.webp",
+			"price": 8000000,
+			"features": ["Paket villa arjuna", "Dekorasi ala honey moon", "Breakfast gratis"]
+		},
+		{
+			"name": "Paket New Year",
+			"img": "/villa-2.webp",
+			"price": 10000000,
+			"features": [
+				"Paket villa arjuna",
+				"Kasur tambahan untuk 5 orang",
+				"Grill barbeque",
+				"Arang, Daging, Sayur, dan Minuman untuk 10 orang"
+			]
+		}
+	],
+	"contacts": {
+		"whatsapp": "62",
+		"youtube": "https://youtube.com",
+		"location": "Jln. MT Haryono no 3 Semarang, Kecamatan Semarang Barat, Kota Semarang, Jawa Tengah"
+	}
+}
